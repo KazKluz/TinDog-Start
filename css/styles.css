@@ -128,3 +128,34 @@ p {
   padding: 100px;
   text-align: center;
 }
+
+@media (max-width:1028px) {
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title {
+    text-align: center;
+  }
+
+}
+
+/* Call to Action */
+
+.cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+}
+
+#ctaFont {
+  font-size: 3rem;
+  padding: 100px auto;
+
+}
+
+#cta {
+    padding: 100px 75px 75px 50px;
+}
