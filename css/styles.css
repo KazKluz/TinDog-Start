@@ -159,3 +159,15 @@ p {
 #cta {
     padding: 100px 75px 75px 50px;
 }
+
+/* Footer */
+
+#footer {
+  background-color: #fff;
+  text-align: center;
+  margin: 50px;
+}
+
+.footer-link {
+  margin: 15px;
+}
