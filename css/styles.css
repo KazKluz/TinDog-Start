@@ -151,13 +151,13 @@ p {
 }
 
 #ctaFont {
-  font-size: 3rem;
+  font-size: 3.5rem;
   padding: 100px auto;
 
 }
 
 #cta {
-    padding: 100px 75px 75px 50px;
+    padding: 7% 15%;
 }
 
 /* Footer */
@@ -165,7 +165,7 @@ p {
 #footer {
   background-color: #fff;
   text-align: center;
-  margin: 50px;
+  margin: 20px 10px;
 }
 
 .footer-link {
